@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GPSRaceCar</string>
+
+    <string name="hello_world">Hello Race</string>
+    <string name="action_settings">Settings</string>
+    <string name="gps_race_road_start">Start race road</string>
+    <string name="gps_race_road_stop">Stop race road</string>
+    <string name="gps_race_start">Start race</string>
+    <string name="gps_race_stop">Stop race</string>
+    <string name="gps_race_show">Show race</string>
+    <string name="title_activity_show_road">ShowRoadActivity</string>
+</resources>
